@@ -5,6 +5,8 @@ public class GITTest {
 	
 	public static void main(String[] args) {
 		System.out.println("hello GIT");
+		
+		System.out.println("change on git ");
 	}
 
 }
